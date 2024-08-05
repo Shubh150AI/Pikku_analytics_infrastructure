@@ -2,11 +2,11 @@
 ![Pikku (1)](https://github.com/user-attachments/assets/cdcab0f0-6f9a-4fb5-bd4e-3939c0288cf1)
 
 Overview
+
 Pikku Moulds & Plastic Pvt Ltd is a fictional company that aims to enhance its business operations through a comprehensive data engineering and analytics infrastructure. The goal of this project is to design and implement a scalable, efficient, and integrated system for managing and analyzing business data. This infrastructure will support various business functions including sales, finance, inventory, and reporting, providing valuable insights for decision-making and operational improvements.
 
 Professional Problem Statement
 Problem Statement:
-
 Pikku Moulds & Plastic Pvt Ltd faces challenges in efficiently managing and analyzing its business data across multiple functions. The current data management practices are fragmented and lack integration, leading to inefficiencies and limited insights into business performance. The company requires a robust data infrastructure that can consolidate data from various sources, automate ETL processes, and provide actionable analytics and reporting.
 
 Objectives:
